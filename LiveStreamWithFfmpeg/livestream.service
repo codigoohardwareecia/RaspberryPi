@@ -1,0 +1,20 @@
+[Unit]
+Description=Servico de Streaming FFmpeg
+After=network-online.target nginx.service
+Wants=network-online.target
+
+[Service]
+User=principal
+Group=video
+ExecStart=/usr/bin/ffmpeg -loglevel warning \
+    -f v4l2 -input_format mjpeg -video_size 1280x720 -framerate 30 -i /dev/video0 \
+    -f alsa -channels 1 -i hw:2,0 \
+    -c:v libx264 -preset ultrafast -tune zerolatency -pix_fmt yuv420p \
+    -b:v 2M -g 30 -keyint_min 30 -force_key_frames "expr:gte(t,n_forced*1)" \
+    -c:a aac -b:a 128k -ar 44100 \
+    -f flv rtmp://localhost/live/tela
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
