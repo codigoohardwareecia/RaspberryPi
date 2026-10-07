@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "JarvisWizard.Controllers.HomeController",
+    "Method": "GetStatus",
+    "RelativePath": "api/v1/Home/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

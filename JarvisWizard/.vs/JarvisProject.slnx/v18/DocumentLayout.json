@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia - OLD\\GitHub\\JarvisProject\\JarvisWizard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6301F4B-0C56-5234-8F05-645A756892C1}|JarvisWizard\\JarvisWizard.csproj|d:\\storage\\canal youtube\\c\u00F3digo, hardware e cia - old\\github\\jarvisproject\\jarviswizard\\jarviswizard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6301F4B-0C56-5234-8F05-645A756892C1}|JarvisWizard\\JarvisWizard.csproj|solutionrelative:jarviswizard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6301F4B-0C56-5234-8F05-645A756892C1}|JarvisWizard\\JarvisWizard.csproj|d:\\storage\\canal youtube\\c\u00F3digo, hardware e cia - old\\github\\jarvisproject\\jarviswizard\\jarviswizard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6301F4B-0C56-5234-8F05-645A756892C1}|JarvisWizard\\JarvisWizard.csproj|solutionrelative:jarviswizard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia - OLD\\GitHub\\JarvisProject\\JarvisWizard\\JarvisWizard\\Program.cs",
+              "RelativeDocumentMoniker": "JarvisWizard\\Program.cs",
+              "ToolTip": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia - OLD\\GitHub\\JarvisProject\\JarvisWizard\\JarvisWizard\\Program.cs",
+              "RelativeToolTip": "JarvisWizard\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T13:33:59.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia - OLD\\GitHub\\JarvisProject\\JarvisWizard\\JarvisWizard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JarvisWizard\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia - OLD\\GitHub\\JarvisProject\\JarvisWizard\\JarvisWizard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JarvisWizard\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T13:34:01.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@JarvisWizard_HostAddress = http://localhost:5050
+
+GET {{JarvisWizard_HostAddress}}/home/
+Accept: application/json
+
+###
